@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-   <img alt="Princing Table" title="Princing Table" src="" width="720px" />
+   <img alt="Princing Table" title="Princing Table" src="https://github.com/LuskarDev/Princing_Table/blob/main/princing.png" width="720px" />
 </p>
 
 ## Tecnologias
